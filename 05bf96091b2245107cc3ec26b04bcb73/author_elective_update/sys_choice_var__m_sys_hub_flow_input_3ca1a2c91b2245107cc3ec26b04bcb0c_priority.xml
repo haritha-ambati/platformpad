@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <name>var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-03-28 16:40:12</sys_created_on>
+            <sys_id>09a1a2c91b2245107cc3ec26b04bcb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package display_value="PlatformPad" source="x_snc_platformpad">05bf96091b2245107cc3ec26b04bcb73</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PlatformPad">05bf96091b2245107cc3ec26b04bcb73</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-03-28 16:40:12</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- None --</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-03-28 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cda1a2c91b2245107cc3ec26b04bcb84</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-03-28 17:09:31</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-03-28 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91a1a2c91b2245107cc3ec26b04bcb87</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-03-28 17:09:31</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-03-28 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15a1a2c91b2245107cc3ec26b04bcb88</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-03-28 17:09:31</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Moderate</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-03-28 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95a1a2c91b2245107cc3ec26b04bcb89</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-03-28 17:09:31</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-03-28 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19a1a2c91b2245107cc3ec26b04bcb8a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-03-28 17:09:31</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Planning</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_3ca1a2c91b2245107cc3ec26b04bcb0c</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-03-28 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19a1a2c91b2245107cc3ec26b04bcba4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-03-28 17:09:31</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
